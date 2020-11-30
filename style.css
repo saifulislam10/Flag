@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #ddd;
+}
+
+.Flag{
+	width: 400px;
+	height: 200px;
+	background: green;
+	position: relative;
+	margin-top: 50px;
+	margin-left: 270px;
+}
+
+.lal{
+	width: 150px;
+	height: 150px;
+	background: red;
+	border-radius: 50%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
+.bas{
+	width: 05px;
+	height: 500px;
+	background: #333;
+	position: absolute;
+	top: 43px;
+	left: 260px;
+}
+h1{
+	font-size: 20px;
+	text-transform: uppercase;
+	color: tomato;
+	margin-top: 50px;
+	margin-left: 280px;
+}
